@@ -1,5 +1,3 @@
-# Write_Ups
+Aufzeichnungen zu verschiedenen Themen and Algorithmen mit denen ich in letzten Jahren gearbeitet habe. <br>
 
-Some of my write-ups over the years... <br>
-
-**Password** for the PDFs: first two prime number (password length = two)
+**Passwort** für die PDFs: die ersten beiden Primzahlen (Passwortlänge = 2)
