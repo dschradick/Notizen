@@ -2,4 +2,4 @@
 
 Some of my write-ups over the years... <br>
 
-**Password**: first two prime number (password length = two)
+**Password** for the PDFs: first two prime number (password length = two)
